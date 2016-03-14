@@ -3,11 +3,6 @@
 /**
  * The plugin bootstrap file
  *
- * This file is read by WordPress to generate the plugin information in the plugin
- * admin area. This file also includes all of the dependencies used by the plugin,
- * registers the activation and deactivation functions, and defines a function
- * that starts the plugin.
- *
  * @link              http://www.deviodigital.com
  * @since             1.0.0
  * @package           Members_Only
@@ -15,8 +10,8 @@
  * @wordpress-plugin
  * Plugin Name:       Members Only
  * Plugin URI:        http://www.robertdevore.com/members-only
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Description:       Separate your members content from the rest of your website with the #membersonly plugin.
+ * Version:           0.1
  * Author:            Devio Digital
  * Author URI:        http://www.deviodigital.com
  * License:           GPL-2.0+
